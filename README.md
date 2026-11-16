@@ -1,8 +1,7 @@
 # Build Your Own Shell
 
+![Status](https://img.shields.io/badge/status-learning_placeholder-lightgrey)
 
-**Status: Coursework / learning project.**
+A learning-project placeholder for exploring command parsing and process execution.
 
-A learning-project placeholder for building a shell. This repository does not yet contain a shell implementation.
-
-Preserved as a learning reference; production deployment and current compatibility have not been verified.
+The repository currently contains no shell implementation, build commands, or tests.
